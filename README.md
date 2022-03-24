@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='JavaScript'>
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'>
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt='MySQL'>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt='Git'>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -25,3 +27,4 @@
 
 <a href="https://www.linkedin.com/in/maciej-fec-657071182/"><img src="https://img.shields.io/badge/-Maciej%20Fec-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:maciejfec1996@gmail.com"><img src="https://img.shields.io/badge/-maciejfec1996@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCcv5_zBsIo9e0fJRr3TT2Ww"><img src="https://img.shields.io/badge/-Maciej%20Fec-D14836?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
