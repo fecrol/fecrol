@@ -1,7 +1,8 @@
 ### <h2>👋 Hey there! I'm Maciej</h2>
 
 ### 💻 About me
-- I'm currently studying HND Software Development at Edinburgh College.
+- Currently working at [2i](https://2itesting.com/) as a Junior Testing Engineer.
+- Graduated from Edinburgh College with a Higher National Diploma in Software Development
 - I'm passionate about software development and my goal is to become well-versed in this field.
 
 ### 🛠&nbsp;Tools and Languages
