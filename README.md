@@ -7,12 +7,13 @@
 
 ### 🛠&nbsp;Tools and Languages
 <div style='display: flex; align-content: center'/>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt='Python'> 
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt='Java'>
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt='PHP'>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='JavaScript'>
+  <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" alt='ReactJS'>
+  <img src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express" alt='ExpressJS'>
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'>
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='JavaScript'>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt='Python'> 
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt='Java'>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt='MySQL'>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt='Git'>
 </div>
