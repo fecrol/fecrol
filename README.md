@@ -1,7 +1,7 @@
 ### <h2>👋 Hey there! I'm Maciej</h2>
 
 ### 💻 About me
-- Currently working at [2i](https://2itesting.com/) as a Junior Test Engineer.
+- Currently working at [2i](https://2itesting.com/) as a Junior Engineer.
 - Graduated from Edinburgh College with a Higher National Diploma in Software Development
 - I'm passionate about software development and my goal is to become well-versed in this field.
 
