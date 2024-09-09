@@ -1,32 +1,32 @@
-### <h2>👋 Hey there! I'm Maciej</h2>
+# Hi there, I'm Maciej! 👋
 
-### 💻 About me
-- Currently working as a Junior Engineer.
-- Graduated from Edinburgh College with a Higher National Diploma in Software Development
-- I'm passionate about software development and my goal is to become well-versed in this field.
+## 👨‍💻 About Me
 
-### 🛠&nbsp;Tools and Languages
-<div style='display: flex; align-content: center'/>
-  <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" alt='ReactJS'>
-  <img src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express" alt='ExpressJS'>
-  <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'>
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='JavaScript'>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt='Python'> 
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt='Java'>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt='MySQL'>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt='Git'>
-</div>
+I am a **Software Development Engineer in Test** (SDET) with over **2 years of experience** in designing and executing automated testing solutions. My expertise lies in building robust, scalable test automation frameworks using modern tools and languages. I'm passionate about delivering quality software and ensuring reliable, user-centric solutions.
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🛠️ Tools and Technologies I Specialise In
+Here are some of the tools and languages I work with:
 
-<a href="https://github.com/fecrol">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fecrol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fecrol&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![SerenityBDD](https://img.shields.io/badge/SerenityBDD-00C4CC?style=for-the-badge&logo=serenity&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-27AE60?style=for-the-badge&logo=cucumber&logoColor=white)
 
-### 🤝🏻 &nbsp;Find Me On
+## 📈 GitHub Stats
 
-<a href="https://www.linkedin.com/in/maciej-fec-657071182/"><img src="https://img.shields.io/badge/-Maciej%20Fec-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:maciejfec1996@gmail.com"><img src="https://img.shields.io/badge/-maciejfec1996@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCcv5_zBsIo9e0fJRr3TT2Ww"><img src="https://img.shields.io/badge/-Maciej%20Fec-D14836?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+![Maciej's GitHub stats](https://github-readme-stats.vercel.app/api?username=fecrol&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecrol&layout=compact&theme=dark)
+
+## 🌍 Connect With Me
+
+You can find me on:
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-fec/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fecrolkage)
+
+---
+
+### 💡 Fun fact: 
+> I'm always curious about how things work under the hood, which is why I’m fascinated by automation and ensuring every piece of code delivers flawless user experiences!
