@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Development Engineer in Test** (SDET) with over **2 years of experience** in designing and executing automated testing solutions. My expertise lies in building robust, scalable test automation frameworks using modern tools and languages. I'm passionate about delivering quality software and ensuring reliable, user-centric solutions.
+I am a **Software Development Engineer in Test** (SDET) with over **3 years of experience** in designing and executing automated testing solutions. My expertise lies in building robust, scalable test automation frameworks using modern tools and languages. I'm passionate about delivering quality software and ensuring reliable, user-centric solutions.
 
 ## 🛠️ Tools and Technologies I Specialise In
 Here are some of the tools and languages I work with:
