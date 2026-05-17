@@ -18,9 +18,9 @@ Git • Jenkins • Docker
 -	[TMAP Organizing built-in quality at scale](https://app.skillsclub.com/credential/291498-1a8f40992c7228f6808fc62b5c77824d16b0585dd98b7b4cfb57fceb77467583)
 -	[TMAP Quality for cross-functional teams](https://skillshub.isqi.org/79eedb2c-27ca-435e-a4dd-0d59218483f8#acc.QI9bOqPH)
 -	[AWS Certified Cloud Practitioner](https://www.credly.com/badges/034dea6c-aa7b-46ad-be75-62604ea8df0b/linked_in_profile)
-
-<img width="160" height="160" alt="isqi-668921-26-TMAPORGN-275101-44" src="https://github.com/user-attachments/assets/e49c23f9-cfa0-4043-a462-0b895951511d" />
-<img width="160" height="160" alt="aws-certified-cloud-practicioner-badge" src="https://github.com/user-attachments/assets/ae49ed07-3c10-4543-98be-4c1f2b3f9066" />
+<br>
+<img width="120" height="120" alt="isqi-668921-26-TMAPORGN-275101-44" src="https://github.com/user-attachments/assets/e49c23f9-cfa0-4043-a462-0b895951511d" />
+<img width="120" height="120" alt="aws-certified-cloud-practicioner-badge" src="https://github.com/user-attachments/assets/ae49ed07-3c10-4543-98be-4c1f2b3f9066" />
 
 ## 🌍 Connect With Me
 You can find me on:
