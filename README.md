@@ -1,32 +1,34 @@
 # Hi there, I'm Maciej! 👋
 
 ## 👨‍💻 About Me
-
-I am a **Software Development Engineer in Test** (SDET) with over **3 years of experience** in designing and executing automated testing solutions. My expertise lies in building robust, scalable test automation frameworks using modern tools and languages. I'm passionate about delivering quality software and ensuring reliable, user-centric solutions.
+**Software Quality Engineer** with over **4 years** of experience. Capable of enabling and driving quality through smart automation, CI/CD integration, and risk-based testing. Technically proficient and able to design, build, and maintain scalable automated test frameworks. Passionate about improving software quality through innovative testing practices.
 
 ## 🛠️ Tools and Technologies I Specialise In
-Here are some of the tools and languages I work with:
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![SerenityBDD](https://img.shields.io/badge/SerenityBDD-00C4CC?style=for-the-badge&logo=serenity&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-27AE60?style=for-the-badge&logo=cucumber&logoColor=white)
+### Automation & Test Tools
+Playwright • Selenium • REST Assured • Serenity BDD • Cucumber • JUnit
 
-## 📈 GitHub Stats
+### Programming Languages
+Java • Python • JavaScript/TypeScript • SQL
 
-![Maciej's GitHub stats](https://github-readme-stats.vercel.app/api?username=fecrol&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecrol&layout=compact&theme=dark)
+### Other Tools
+Git • Jenkins • Docker
+
+## 📜 Certifications
+-	[TMAP Organizing built-in quality at scale](https://app.skillsclub.com/credential/291498-1a8f40992c7228f6808fc62b5c77824d16b0585dd98b7b4cfb57fceb77467583)
+-	[TMAP Quality for cross-functional teams](https://skillshub.isqi.org/79eedb2c-27ca-435e-a4dd-0d59218483f8#acc.QI9bOqPH)
+-	[AWS Certified Cloud Practitioner](https://www.credly.com/badges/034dea6c-aa7b-46ad-be75-62604ea8df0b/linked_in_profile)
+
+<img width="160" height="160" alt="isqi-668921-26-TMAPORGN-275101-44" src="https://github.com/user-attachments/assets/e49c23f9-cfa0-4043-a462-0b895951511d" />
+<img width="160" height="160" alt="aws-certified-cloud-practicioner-badge" src="https://github.com/user-attachments/assets/ae49ed07-3c10-4543-98be-4c1f2b3f9066" />
 
 ## 🌍 Connect With Me
-
 You can find me on:
-<br>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciejfec1996@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-fec/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fecrolkage)
 
 ---
-
 ### 💡 Fun fact: 
 > I'm always curious about how things work under the hood, which is why I’m fascinated by automation and ensuring every piece of code delivers flawless user experiences!
