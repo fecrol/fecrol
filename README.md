@@ -6,7 +6,7 @@
 ## 🛠️ Tools and Technologies I Specialise In
 
 ### Automation & Test Tools
-Playwright • Selenium • REST Assured • Serenity BDD • Cucumber • JUnit
+Selenium • REST Assured • Playwright • Serenity BDD • Cucumber • JUnit
 
 ### Programming Languages
 Java • Python • JavaScript/TypeScript • SQL
@@ -31,4 +31,4 @@ You can find me on:
 
 ---
 ### 💡 Fun fact: 
-> I'm always curious about how things work under the hood, which is why I’m fascinated by automation and ensuring every piece of code delivers flawless user experiences!
+> I'm always curious about how things work under the hood, which is why I’m fascinated by software quality assurance!
